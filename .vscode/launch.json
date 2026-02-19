@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Secure Vault (module)",
+      "type": "python",
+      "request": "launch",
+      "module": "privexi.main",
+      "cwd": "${workspaceFolder}",
+      "justMyCode": true
+    }
+  ]
+}
